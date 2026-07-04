@@ -24,6 +24,7 @@ Downloads/
     │   └── ...
     └── ...
 ```
+<img width="671" height="382" alt="image" src="https://github.com/user-attachments/assets/bc43d117-c97a-4061-a3a8-dde405b3083d" />
 
 - Saves your login session so you only approve MFA **once every few days**
 - Downloads 2 courses at a time for speed
@@ -74,7 +75,7 @@ SAVE_DIR = Path.home() / "Downloads" / "BCA Sem-4 Notes"
 
 Change `Sem-4` to whatever semester you're in or Write it in SEM_TAB variable
 
-
+<img width="850" height="157" alt="Screenshot 2026-07-04 110039" src="https://github.com/user-attachments/assets/c874bdea-348f-4462-b02a-fc3056b233b5" />
 
 ---
 
